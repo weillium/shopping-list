@@ -1,3 +1,6 @@
 - Chicken
 - Pork
 - Beef
+- PS5
+- XBOX ONE
+- NINTENDO SWITCH
